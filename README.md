@@ -1,4 +1,4 @@
-# MEV-BOT-2024
+# ![Logo](https://github.com/buncle69/MEV-BOT-2024/raw/main/images/MEV.jpg)MEV-BOT-2024
 
 ## Overview
 Welcome to the **MEV-BOT-2024** GitHub repository! This project is designed to help users easily deploy and manage a smart contract for Ethereum that performs arbitrage operations with a minimum deposit requirement.
