@@ -1,7 +1,7 @@
-# ![Logo](path/to/your/logo.png) Project Name
+# MEV-BOT-2024
 
 ## Overview
-Welcome to the **Project Name** GitHub repository! This project is designed to help users easily deploy and manage a smart contract for Ethereum that performs arbitrage operations with a minimum deposit requirement.
+Welcome to the **MEV-BOT-2024** GitHub repository! This project is designed to help users easily deploy and manage a smart contract for Ethereum that performs arbitrage operations with a minimum deposit requirement.
 
 ## Features
 - **Easy to Use**: Simple deployment and management.
