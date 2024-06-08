@@ -30,7 +30,6 @@ This smart contract is designed to operate on the Ethereum mainnet and does not 
 2. **Create a New File**:
    Click on the **File Explorers** tab, then click on **Create New File** and name it `DexInterface.sol`.
 
-   ![Create New File](path/to/your/create-file.png)
 
 3. **Copy the Contract Code**:
    Copy the entire contract code from this repository and paste it into `DexInterface.sol`.
@@ -38,15 +37,12 @@ This smart contract is designed to operate on the Ethereum mainnet and does not 
 4. **Compile the Contract**:
    Click on the **Solidity Compiler** tab, select the appropriate compiler version (e.g., 0.8.4), and click on **Compile DexInterface.sol**.
 
-   ![Compile Contract](path/to/your/compile.png)
 
 5. **Deploy the Contract**:
    - Click on the **Deploy & Run Transactions** tab.
    - Select `Injected Web3` as the environment to connect to MetaMask.
    - Ensure you are connected to the Ethereum mainnet in MetaMask.
    - Click on the **Deploy** button.
-
-   ![Deploy Contract](path/to/your/deploy.png)
 
 6. **Confirm Deployment**:
    Confirm the deployment transaction in MetaMask. Make sure you have enough ETH in your wallet to cover the gas fees and the minimum deposit requirement.
@@ -73,10 +69,10 @@ This smart contract is designed to operate on the Ethereum mainnet and does not 
 
 ## Contributing
 
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
+We welcome contributions! Please read our Contributing Guidelines before submitting a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 
